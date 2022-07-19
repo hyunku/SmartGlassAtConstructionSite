@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SafetyManagement2022</string>
+
+    <!--Login, Register-->
+    <string name="hint_id">아이디</string>
+    <string name="hint_pw">비밀번호</string>
+    <string name="hint_pw2">비밀번호 확인</string>
+    <string name="hint_company_name">건물사명</string>
+    <string name="hint_name">이름</string>
+    <string name="description_btn_next">다음 버튼</string>
+    <string name="str_register">회원가입</string>
+    <string name="str_service">서비스 이용 약관</string>
+    <string name="str_policy">개인 정보 정책</string>
+    <!--navigation-->
+    <string name="label_nav_home">홈</string>
+    <string name="label_nav_list">목록</string>
+    <string name="label_nav_setting">설정</string>
+    <string name="label_tab_building">건물</string>
+    <string name="label_tab_smartglass">스마트글래스</string>
+    <string name="label_title_setting">설정</string>
+
+    <!--home-->
+    <string name="toolbar_title_building_create">건물 추가</string>
+    <string name="btn_connect_smartglass">스마트 글래스 연결하기</string>
+    <string name="label_explain_create_building_step1">건물 정보를 입력해주세요.</string>
+    <string name="label_building_name">건물명</string>
+    <string name="label_memo">상세 내용</string>
+    <string name="label_floor">층수</string>
+    <string name="label_floor_max">지상</string>
+    <string name="label_floor_min">지하</string>
+    <string name="label_floor_num">층</string>
+    <string name="hint_num_0">0</string>
+    <string name="label_btn_next">다음</string>
+    <string name="label_btn_finish">완료</string>
+    <string name="label_explain_create_building_step2">도면을 추가해주세요.</string>
+
+    <!--description-->
+    <string name="description_gradient_background">gradient background</string>
+    <string name="description_image_safety_issue">안전 문제 이미지</string>
+    <string name="description_icon_location">위치 아이콘</string>
+    <string name="description_icon_building">건물 아이콘</string>
+    <string name="description_btn_add_building">견물 추가하기 버튼</string>
+    <string name="description_use_smart_glass">스마트 글래스 사용 여부 이미지</string>
+    <string name="description_btn_menu">상세 메뉴 버튼</string>
+    <string name="label_login">로그인</string>
+    <string name="description_floor_plan_image">도면 이미지</string>
+
+
+</resources>
