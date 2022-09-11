@@ -34,16 +34,29 @@
     <string name="label_btn_finish">완료</string>
     <string name="label_explain_create_building_step2">도면을 추가해주세요.</string>
 
+    <string name="toolbar_title_glass_create">스마트 글래스 추가</string>
+    <string name="label_explain_create_glass">스마트 글래스 정보를 입력해주세요.</string>
+    <string name="label_glass_name">스마트 글래스명</string>
+
     <!--description-->
     <string name="description_gradient_background">gradient background</string>
     <string name="description_image_safety_issue">안전 문제 이미지</string>
     <string name="description_icon_location">위치 아이콘</string>
     <string name="description_icon_building">건물 아이콘</string>
     <string name="description_btn_add_building">견물 추가하기 버튼</string>
+    <string name="description_btn_add_samrtglass">스마트 글래스 추가하기 버튼</string>
     <string name="description_use_smart_glass">스마트 글래스 사용 여부 이미지</string>
     <string name="description_btn_menu">상세 메뉴 버튼</string>
     <string name="label_login">로그인</string>
     <string name="description_floor_plan_image">도면 이미지</string>
+    <string name="label_user">사용자</string>
+    <string name="label_manager">관리자</string>
+    <string name="description_floor_plan">도면</string>
+    <string name="dialog_select_glass_title">연결할 스마트 글래스명을 선택해주세요.</string>
+    <string name="dialog_select_building_title">연결할 건물명을 선택해주세요.</string>
+    <string name="btn_negative">취소</string>
+    <string name="btn_next">다음</string>
+    <string name="btn_ok">선택 완료</string>
 
 
 </resources>

@@ -9,33 +9,50 @@
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_btn_gray.xml" value="0.1655" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_btn_mid.xml" value="0.1845" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_btn_top.xml" value="0.1845" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_dialog_r15.xml" value="0.1635" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_edit.xml" value="0.259" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_edit_gray_line.xml" value="0.1655" />
-        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_gradient_circle.xml" value="0.259" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_gradient_circle.xml" value="0.176" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_gradient_r15.xml" value="0.1655" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/background_spinner_line.xml" value="0.1655" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selecter_home_icon.xml" value="0.259" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selecter_list_icon.xml" value="0.1885" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selecter_setting_icon.xml" value="0.1885" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selector_btn.xml" value="0.1655" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selector_home_icon.xml" value="0.1655" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/drawable/selector_radio_btn.xml" value="0.1655" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout-v23/fragment_setting.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_building_create.xml" value="0.25364583333333335" />
-        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_building_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_building_detail.xml" value="0.176" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/activity_resgister.xml" value="0.25364583333333335" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/dialog_select_building.xml" value="0.25364583333333335" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/dialog_select_smart_glass.xml" value="0.264" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/diglog_smart_glass.xml" value="0.190234375" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_building_create_1.xml" value="0.264" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_building_create_2.xml" value="0.25364583333333335" />
-        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_home.xml" value="0.23920265780730898" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_list.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_list_building.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_list_smartglass.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/fragment_setting.xml" value="0.264" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_dialog_building.xml" value="0.25364583333333335" />
+        <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_dialog_smart_glass.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_floor_plan.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_list_building.xml" value="0.2526041666666667" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_list_smartglass.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/layout/item_safety_issue.xml" value="0.25364583333333335" />
         <entry key="..\:/Study/Android/SafetyManagement2022/app/src/main/res/menu/nav_main.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/drawable/background_dialog_r15.xml" value="0.2285" />
+        <entry key="app/src/main/res/layout/activity_building_create.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/activity_building_detail.xml" value="0.23233695652173914" />
+        <entry key="app/src/main/res/layout/activity_glass_create.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_basic.xml" value="0.23233695652173914" />
+        <entry key="app/src/main/res/layout/fragment_building_create_1.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/fragment_list_building.xml" value="0.23233695652173914" />
+        <entry key="app/src/main/res/layout/fragment_list_smartglass.xml" value="0.23233695652173914" />
       </map>
     </option>
   </component>
